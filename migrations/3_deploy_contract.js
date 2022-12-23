@@ -5,7 +5,7 @@ module.exports = function(deployer) {
     CrowdFundingWithDeadline, 
     "Fund Raiser",
     40,
-    10,
+    10000000,
     "0x77E7B172f1Cd81508bd7C252bCBf60028dD024A1"
   );
 };

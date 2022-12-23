@@ -18,8 +18,7 @@
         }
       ],
       "stateMutability": "pure",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [
@@ -38,8 +37,7 @@
         }
       ],
       "stateMutability": "pure",
-      "type": "function",
-      "constant": true
+      "type": "function"
     }
   ],
   "metadata": "{\"compiler\":{\"version\":\"0.6.0+commit.26b70077\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"sumInEth\",\"type\":\"uint256\"}],\"name\":\"etherToWei\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"pure\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"timeInMin\",\"type\":\"uint256\"}],\"name\":\"minutesToSeconds\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"pure\",\"type\":\"function\"}],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"project:/contracts/Utils.sol\":\"Utils\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/Utils.sol\":{\"keccak256\":\"0xa767bea94d2f53473bb3f9e8bc20bc8ad4bbdb35f02291c51993cf36b10e609a\",\"urls\":[\"bzz-raw://5fcf1975a721b698fd235566277e00ea6c1608915f426da4f960ed58c6de96bb\",\"dweb:/ipfs/QmNMCGF9D9GB2dwoej8ctKamHHGzJAJfrheKWcr93rTn7M\"]}},\"version\":1}",
@@ -768,8 +766,7 @@
     }
   },
   "schemaVersion": "3.4.10",
-  "updatedAt": "2022-10-04T09:50:23.932Z",
-  "networkType": "ethereum",
+  "updatedAt": "2022-12-21T09:31:27.057Z",
   "devdoc": {
     "methods": {}
   },
