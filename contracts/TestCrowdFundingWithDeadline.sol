@@ -11,7 +11,7 @@ contract TestCrowdFundingWithDeadline is CrowdFundingWithDeadline {
         uint targetAmountEth,
         uint durationInMin,
         address payable beneficiaryAddress
-    )public
+    )
         CrowdFundingWithDeadline(contractName, targetAmountEth, durationInMin, beneficiaryAddress)
     {
 

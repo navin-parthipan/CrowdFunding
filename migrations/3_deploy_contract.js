@@ -5,7 +5,7 @@ module.exports = function(deployer) {
     CrowdFundingWithDeadline, 
     "Fund Raiser",
     40,
-    10000000,
-    "0x77E7B172f1Cd81508bd7C252bCBf60028dD024A1"
+    28800,
+    "0x4f03845Bf98Dd2aeF163F64ECC2c643868655473" //account 4 => beneficiary
   );
 };

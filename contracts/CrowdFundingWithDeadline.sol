@@ -53,7 +53,7 @@ contract CrowdFundingWithDeadline {
         uint targetAmountEth,
         uint durationInMin,
         address payable beneficiaryAddress
-    ) public
+    ) 
     {
         name = contractName;
         targetAmount = Utils.etherToWei(targetAmountEth);
